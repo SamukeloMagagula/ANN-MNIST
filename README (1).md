@@ -1,8 +1,5 @@
 # AIN58XS — ANN MNIST Notebook
 
-**Cape Peninsula University of Technology**  
-Artificial Neural Network Analysis — Handwritten Digit Recognition
-
 ---
 
 ## Requirements
